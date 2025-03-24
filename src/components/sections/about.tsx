@@ -18,7 +18,7 @@ export default function About() {
           </p>
           <div className="flex flex-wrap gap-4">
             <Button size="lg">
-              <a href="/resume.pdf" download className="flex items-center">
+              <a href="https://drive.google.com/file/d/11CA8w6jMg3JfdXmNJpS-giNlJXzMcU3L/view" download className="flex items-center">
                 Download CV
               </a>
             </Button>
