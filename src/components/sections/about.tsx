@@ -18,8 +18,8 @@ export default function About() {
           </p>
           <div className="flex flex-wrap gap-4">
             <Button size="lg">
-              <a href="https://drive.google.com/file/d/11CA8w6jMg3JfdXmNJpS-giNlJXzMcU3L/view" download className="flex items-center">
-                Download CV
+              <a href="https://drive.google.com/file/d/11CA8w6jMg3JfdXmNJpS-giNlJXzMcU3L/view"  className="flex items-center">
+                CV Link
               </a>
             </Button>
             <Button variant="outline" size="lg">
