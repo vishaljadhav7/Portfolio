@@ -54,7 +54,7 @@ export default function About() {
             <div className="mb-4">
               <h4 className="font-medium">Bachelor of Engineering in Computer Science</h4>
               <p className="text-muted-foreground">University of Technology</p>
-              <p className="text-sm text-muted-foreground">2019 - 2023</p>
+              <p className="text-sm text-muted-foreground">2018 - 2023</p>
             </div>
           </div>
 
@@ -63,7 +63,7 @@ export default function About() {
             <div className="mb-4">
               <h4 className="font-medium">Full Stack Developer</h4>
               <p className="text-muted-foreground">Personal Projects & Freelance</p>
-              <p className="text-sm text-muted-foreground">1+ years</p>
+              <p className="text-sm text-muted-foreground">1.5+ years</p>
             </div>
           </div>
         </div>
